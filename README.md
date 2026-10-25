@@ -9,7 +9,7 @@ Cross-platform mobile development, enterprise .NET systems, and production-focus
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-pimienta-7b3731150)
 [![Available for freelance and consulting](https://img.shields.io/badge/Available_for-Freelance_%26_Consulting-2E7D32?style=flat-square)](https://www.linkedin.com/in/raul-pimienta-7b3731150)
 [![Ultimate .NET MAUI Projects](https://img.shields.io/badge/Book-Ultimate_.NET_MAUI_Projects-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://a.co/d/05bfh5sj)
-[![Prompting to .NET](https://img.shields.io/badge/Book-Prompting_to_.NET-555555?style=flat-square)](https://www.amazon.com/author/raul-pimienta)
+[![Prompting to .NET](https://img.shields.io/badge/Book-Prompting_to_.NET-555555?style=flat-square)](https://a.co/d/0hvibL8j)
 
 </div>
 
@@ -60,10 +60,10 @@ A project-driven guide to building real-world cross-platform applications with .
 - **Publisher:** AVA® — An Orange Education Label
 - **Available on:** [Amazon](https://a.co/d/05bfh5sj)
 
-### [Prompting to .NET](https://www.amazon.com/author/raul-pimienta)
+### [Prompting to .NET](https://a.co/d/0hvibL8j)
 
 A practical guide to building AI-powered .NET solutions, exploring prompt engineering, Azure OpenAI, Semantic Kernel, retrieval-augmented generation (RAG), and production-oriented intelligent application architecture with modern .NET.
 
 - **Author:** Raúl Pimienta
 - **Publisher:** AVA® — An Orange Education Label
-- **Available on:** [Amazon author page](https://www.amazon.com/author/raul-pimienta)
+- **Available on:** [Amazon](https://a.co/d/0hvibL8j)
