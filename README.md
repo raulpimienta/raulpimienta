@@ -64,6 +64,6 @@ A project-driven guide to building real-world cross-platform applications with .
 
 A practical guide to building AI-powered .NET solutions, exploring prompt engineering, Azure OpenAI, Semantic Kernel, retrieval-augmented generation (RAG), and production-oriented intelligent application architecture with modern .NET.
 
-- **Author:** Raúl Pimienta
+- **Co-authors:** Raúl Pimienta and Pedro Luis López Gaitán
 - **Publisher:** AVA® — An Orange Education Label
 - **Available on:** [Amazon](https://a.co/d/0hvibL8j)
